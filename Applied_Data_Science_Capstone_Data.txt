@@ -1,0 +1,4 @@
+Data
+Instead of Foursquare, this work relies to very similar Xeno-canto API. Just an instead of a venues we have observations and instead of a venues category we have name of species. More general description is available on the page: https://www.xeno-canto.org/article/153. 
+Reason for the different API use is to slightly better understand and acquire the course material (and likewise the example work added to 5th week doesn’t use Foursquare)
+During this exercise ArcGIS also used – to retrieve England and Wales counties names that correspond the coordinates retrieved from Xeno-canto.

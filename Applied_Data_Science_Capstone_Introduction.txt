@@ -1,0 +1,12 @@
+Introduction
+
+Birdwatching is becoming one of the main recreational activities in the UK; Netherlands, Denmark, France and Sweden (*). In the USA, the activities related to birdwatching and photographing have been found to have been the most persistent growth rate form of recreational activity (from 1982 to 2009 287%) (**). For 2016, the number of bird-watching people in the USA has grown to 45.1 million (including trips devoted to birdwatching, 16.3 million).
+
+Business Problem
+
+As one of the main objectives of birdwatchers is to meet as many species as possible, the aim of this capstone project is to provide an analytical overview of the main target locations of birdwatchers in England and Wales at counties level and to analyse whether the pattern of the species observed there differs from one another. To provide an analytical view that it is either point to take longer journeys to other counties or the counties are rather more likely to be similar with the observed bird's pattern. One of the objectives is also to provide an overview of whether the species pattern changes with the increase in the number of observations.
+
+In summary, the aim of this exercise is to assist birdwatcher’s in planning their bird watching trips.
+
+* CBI Ministry of Foreign Affairs. (2013). CBI Product Fact Sheet.
+** H.K.Cordell, G.T. Green, and C.J. Betz (2009). Long-Term National Trends in Outdoor Recreation Activity Participation. USDA Forest Service.
